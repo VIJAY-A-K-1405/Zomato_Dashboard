@@ -22,7 +22,7 @@ Working on this project has been a great learning experience, and I’m thrilled
 
 
 
-> **Complete project explained on LinkedIn:** https://www.linkedin.com/posts/vijayashokkarlawad_powerbi-datavisualization-dataengineer-activity-7237829943332610049-dFlA?utm_source=share&utm_medium=member_desktop
+> **Complete project explained on LinkedIn:** https://www.linkedin.com/posts/vijayashokkarlawad_powerbi-datavisualization-dataengineer-activity-7237829943332610049
 
  ## Contact Information
  
